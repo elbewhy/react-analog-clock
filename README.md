@@ -1,8 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📌 **`react-analog-clock`**  
+```markdown
+# ⏰ React Analog Clock
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A **real-time analog clock** built with React.js and Vite.
+
+## 🚀 Features
+- 🕒 **Real-time Clock Updates** – The clock updates automatically.  
+- 🎨 **Customizable Themes** – Change styles as needed.  
+- 📱 **Responsive Design** – Works on all devices.  
+
+## 🔧 Technologies Used
+- **Frontend:** HTML, CSS  
+- **Framework:** React.js (with Vite)  
+
+## 📌 How to Use
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/elbewhy/react-analog-clock.git
+
+2️⃣ Navigate to the Project Directory
+    cd react-analog-clock
+3️⃣ Install Dependencies
+    npm install
+4️⃣ Start the Project
+    npm run dev
+📜 License
+    This project is open-source under the MIT License.
